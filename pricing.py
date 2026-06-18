@@ -1,1 +1,1 @@
-price = 75
+price = 62.5
